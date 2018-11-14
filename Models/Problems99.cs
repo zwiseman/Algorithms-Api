@@ -2,11 +2,13 @@ using System;
 
 namespace algorithmApi {
     public class problems {
-        int [] problem;
+
+        int[] problem;
+
         public problems () {
             problem = new int[2];
-            problem[0] = problem1();
-            problem[1] = problem2(0, 1, 0);
+            problem[0] = problem1 ();
+            problem[1] = problem2 (0, 1, 0);
         }
 
         /**
@@ -38,24 +40,8 @@ namespace algorithmApi {
             return sum;
         }
 
-
-        public int [] getProblems() {
+        public int[] getProblems () {
             return problem;
         }
-        
-        // /**
-        //  * Problem 3: What is the largest prime factor of the number 600851475143?
-        //  */
-        // public double problem3(long number) {
-        // }
-
-        /**
-         * Problem 5: What is the smallest positive number that is 
-         * evenly divisible by all of the numbers from 1 to 20?
-         */
-        // public double problem5 (long number) {
-
-        // }
-
     }
 }

@@ -14,10 +14,10 @@ namespace algorithmApi.Controllers {
             euler = new problems();
         }
 
-        // GET api/values
+        // GET algorithms
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get () {
-            return new string[] { "value1", "value2" };
+        public ActionResult<string> Get () {
+            return "It's Up, Navigate to ...";
         }
 
         // GET algorithms
@@ -26,10 +26,9 @@ namespace algorithmApi.Controllers {
             return "value";
         }
 
-        // POST algorithms/HelloWorld
-        [HttpGet("ProblemOne")]
+        // POST algorithms/ProjectEuler
+        [HttpGet("ProjectEuler")]
         public ActionResult<int []> HelloWorld () {
-            
             return euler.getProblems();
         }
 
@@ -37,7 +36,7 @@ namespace algorithmApi.Controllers {
         [HttpPut ("{id}")]
         public void Put (int id, [FromBody] string value) { }
 
-        // DELETE api/values/5
+        // DELETE algorithms/{id}
         [HttpDelete ("{id}")]
         public void Delete (int id) { }
     }
