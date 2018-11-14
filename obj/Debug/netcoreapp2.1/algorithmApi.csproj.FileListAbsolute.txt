@@ -1,0 +1,14 @@
+/Users/zacharywiseman/Desktop/algorithmApi/bin/Debug/netcoreapp2.1/algorithmApi.deps.json
+/Users/zacharywiseman/Desktop/algorithmApi/bin/Debug/netcoreapp2.1/algorithmApi.runtimeconfig.json
+/Users/zacharywiseman/Desktop/algorithmApi/bin/Debug/netcoreapp2.1/algorithmApi.runtimeconfig.dev.json
+/Users/zacharywiseman/Desktop/algorithmApi/bin/Debug/netcoreapp2.1/algorithmApi.dll
+/Users/zacharywiseman/Desktop/algorithmApi/bin/Debug/netcoreapp2.1/algorithmApi.pdb
+/Users/zacharywiseman/Desktop/algorithmApi/obj/Debug/netcoreapp2.1/algorithmApi.csprojAssemblyReference.cache
+/Users/zacharywiseman/Desktop/algorithmApi/obj/Debug/netcoreapp2.1/algorithmApi.csproj.CoreCompileInputs.cache
+/Users/zacharywiseman/Desktop/algorithmApi/obj/Debug/netcoreapp2.1/algorithmApi.RazorAssemblyInfo.cache
+/Users/zacharywiseman/Desktop/algorithmApi/obj/Debug/netcoreapp2.1/algorithmApi.RazorAssemblyInfo.cs
+/Users/zacharywiseman/Desktop/algorithmApi/obj/Debug/netcoreapp2.1/algorithmApi.AssemblyInfoInputs.cache
+/Users/zacharywiseman/Desktop/algorithmApi/obj/Debug/netcoreapp2.1/algorithmApi.AssemblyInfo.cs
+/Users/zacharywiseman/Desktop/algorithmApi/obj/Debug/netcoreapp2.1/algorithmApi.RazorTargetAssemblyInfo.cache
+/Users/zacharywiseman/Desktop/algorithmApi/obj/Debug/netcoreapp2.1/algorithmApi.dll
+/Users/zacharywiseman/Desktop/algorithmApi/obj/Debug/netcoreapp2.1/algorithmApi.pdb
