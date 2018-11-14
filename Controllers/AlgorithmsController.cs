@@ -28,9 +28,9 @@ namespace algorithmApi.Controllers {
 
         // POST algorithms/HelloWorld
         [HttpGet("ProblemOne")]
-        public ActionResult<string> HelloWorld () {
-            string probelm1 = "Problem One: " + euler.problem1();
-            return probelm1;
+        public ActionResult<int []> HelloWorld () {
+            
+            return euler.getProblems();
         }
 
         // PUT algorithms/{id}

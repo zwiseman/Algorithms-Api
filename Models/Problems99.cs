@@ -2,9 +2,11 @@ using System;
 
 namespace algorithmApi {
     public class problems {
+        int [] problem;
         public problems () {
-            Console.WriteLine ("You got problems? Let me solve them");
-            Console.WriteLine ();
+            problem = new int[2];
+            problem[0] = problem1();
+            problem[1] = problem2(0, 1, 0);
         }
 
         /**
@@ -36,6 +38,11 @@ namespace algorithmApi {
             return sum;
         }
 
+
+        public int [] getProblems() {
+            return problem;
+        }
+        
         // /**
         //  * Problem 3: What is the largest prime factor of the number 600851475143?
         //  */
